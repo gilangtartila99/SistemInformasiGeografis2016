@@ -1,6 +1,6 @@
 **Rangkuman Pertemuan 1 Sistem Informasi Geografis**
 <p align="center">
-  <img src="../../img/GIS.jpg">
+  <img src="../../img/GIS.jpg" width="50px">
 </p>
 **Latar Belakang Masalah**
 
