@@ -37,29 +37,15 @@ Saran
 
 Saran saya pada pertemuan selanjutnya lebih baik kita langsung praktek agar kita dapat langsung mengetahui apa itu Sistem Informasi Geografis
 
-
 * Nama : Gilang Romadhanu Tartila
 * NPM : 1144033
-
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
-
 * Mata Kuliah : Sistem Informasi Geografis
-
-
 
 Link Github : https://github.com/gilangtartila99/SistemInformasiGeografis2016
 
-
-
-
 Scan Plagiarisme
 
-
-
-1.smallseotools - Link 
-
-https://drive.google.com/open?id=0B5gySyqZ4GGoMUZrSDBTTGYxSzQ
-2.serachenginereport - Link 
-
-https://drive.google.com/open?id=0B5gySyqZ4GGoTUhFR1RzN19DTG8
+1. smallseotools - Link https://drive.google.com/open?id=0B5gySyqZ4GGoMUZrSDBTTGYxSzQ
+2. serachenginereport - Link https://drive.google.com/open?id=0B5gySyqZ4GGoTUhFR1RzN19DTG8
