@@ -1,6 +1,6 @@
 **Rangkuman Pertemuan 1 Sistem Informasi Geografis**
 <p align="center">
-  <img src="./img/GIS.jpg">
+  <img src="../../img/GIS.jpg">
 </p>
 **Latar Belakang Masalah**
 
@@ -21,11 +21,11 @@ Pada Sistem Informasi Geografis menggunakan aplikasi QGIS
 
 Pada sistem informasi geografis terdapat geospacial yang bias disebut juga Ruang (x,y,z), untuk gambarnya seperti dibawah :
 <p align="center">
-  <img src="./img/Geospacial.jpg">
+  <img src="../../img/Geospacial.jpg">
 </p>
 Pada sistem informasi geografis juga terdapat koordinat(lat, long), jadi ada titik (0,0) ada 0 derajat, untuk 0 derajat itu sendiri berada di inggris, tepatnya di greenwetch, kemudian pada lintang utara ada prime meridian atau yang disebut juga garis bujur dalam sistem koordinat geografis, untuk gambarnya seperti dibawah:
 <p align="center">
-  <img src="./img/Koordinat.jpg">
+  <img src="../../img/Koordinat.jpg">
 </p>
 **Penutup**
 
