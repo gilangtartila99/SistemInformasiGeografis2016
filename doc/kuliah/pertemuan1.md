@@ -45,6 +45,8 @@ Saran saya pada pertemuan selanjutnya lebih baik kita langsung praktek agar kita
 
 Link Github : https://github.com/gilangtartila99/SistemInformasiGeografis2016
 
+Referensi : https://rizaldicaprio.wordpress.com/tim-gis/
+
 Scan Plagiarisme
 
 1. smallseotools - Link https://drive.google.com/open?id=0B5gySyqZ4GGoMUZrSDBTTGYxSzQ
