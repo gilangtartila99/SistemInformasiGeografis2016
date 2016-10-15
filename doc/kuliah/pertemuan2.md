@@ -39,6 +39,12 @@ Jadi dapat disimpulkan bahwa data vektor dan data raster memiliki kekurangan dan
 Saran
 Saran saya sebaiknya pembelajaran tentang data geospasial ini lebih dijelaskan lagi agar kita dapat lebih memahami apa itu data geospasial teruta data vektor dan data raster
 
+* Nama : Gilang Romadhanu Tartila
+* NPM : 1144033
+* Kelas : 3C
+* Prodi : D4 Teknik Informatika
+* Mata Kuliah : Sistem Informasi Geografis
+
 Link Github : https://github.com/gilangtartila99/SistemInformasiGeografis2016
 
 Referensi : http://geograph88.blogspot.co.id/2014/12/data-raster-dan-data-vektor.html
