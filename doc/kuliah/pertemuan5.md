@@ -22,22 +22,14 @@ Pada shapefile terdapat SHP dan DBF, pada SHP terdapat 3 tipe shapefile yaitu, P
 Cara menambahkan record
 
 1. Pada Point = &#39;a.point(x,y)&#39; atau &#39;a.point(x,y,0,0)&#39; dengan domain x dan y adalah koordinat
-2. Pada Polyline = &#39;a.poly(shapefile=3,parts=[[[x
-# 1
-,y
-# 1
-,z
-# 1
-,w
-# 1
-],[ x
-# 2
-,y
-# 2
-,z
-# 2
-,w
-# 2
+2. Pada Polyline = &#39;a.poly(shapefile=3,parts=[[[x1
+,y1
+,z1
+,w1
+],[ x2
+,y2
+,z2
+,w2
 ],[……]]])&#39;
 3. Pada Polygon = &#39;a.poly)shapefile=5,parts=[[[…….],[…….]]])&#39;
 
