@@ -51,7 +51,9 @@ Sebaiknya apa yang kita pelajari dalam penambahan shapefle dapat kita implementa
 
 Link Github : https://github.com/gilangtartila99/SistemInformasiGeografis2016
 
-Referensi : https://en.wikipedia.org/wiki/Shapefile
+Referensi : 
+1. https://en.wikipedia.org/wiki/Shapefile
+2. http://gis.stackexchange.com/questions/85448/python-how-to-create-a-polygon-shapefile-from-a-list-of-x-y-coordinates
 
 Scan Plagiarisme
 
