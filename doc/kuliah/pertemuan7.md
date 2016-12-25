@@ -1,7 +1,7 @@
 **Rangkuman Pertemuan 7 Sistem Informasi Geografis**
 
 <p align="center">
-  <img src="../../img/mapserver.png" width="400px">
+  <img src="../../img/mapserver.jpg" width="400px">
 </p>
 
 Latar Belakang
